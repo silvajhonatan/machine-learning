@@ -1,0 +1,5 @@
+fsc
+Unidades de medida, grandezas físicas e vetores. Movimento em uma dimensão. Movimento em duas e três dimensões.
+Força e movimento, mecânica newtoniana. Energia cinética e trabalho. Energia potencial e conservação da energia.
+Sistemas de partículas, centro de massa e momento linear. Colisões em uma e duas dimensões. Rotações, torque e
+momento angular. Atividades Experimentais.

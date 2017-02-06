@@ -1,0 +1,5 @@
+Unidade Curricular Pré Cálculo para Engenharia Mecatrônica:
+Números reais: conjuntos numéricos, desigualdades, valor absoluto, intervalos.
+Funções: Relações e Funções. Tipos de Funções. Gráficos de Funções; Função Linear. Função Quadrática. Função Modular;
+Composição de Funções e Função Inversa. Função Exponencial. Função Logarítmica. Funções Polinomiais. Equações
+Polinomiais. Funções Trigonométricas e suas Inversas. Matrizes. Determinantes. Noções de Limites e Derivadas.

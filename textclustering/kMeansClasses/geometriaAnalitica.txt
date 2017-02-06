@@ -1,0 +1,2 @@
+ga
+Vetores. Vetores no plano e no espaço. Produto de vetores. Estudo da reta e do plano. Distâncias. Cônicas. Superfícies.

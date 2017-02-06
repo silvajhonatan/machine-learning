@@ -1,0 +1,4 @@
+calculo
+Números Reais. Números complexos. Funções reais de uma variável real. Limites e continuidade. Derivadas. Regras de
+derivação. Aplicações de derivadas. Integral Indefinida. Regras de Integração. Técnicas de Integração. Integral definida.
+Teorema fundamental do cálculo. Aplicações de integrais definidas. Integrais impróprias. 

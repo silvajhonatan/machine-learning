@@ -1,0 +1,6 @@
+desenho técnico
+Introdução ao desenho técnico a mão livre, normas para o desenho. Técnicas fundamentais de traçado a mão livre.
+Escala. Retas: traçado de retas, Divisão de um Segmento em partes iguais, concordância entre retas e arcos, construção
+de polígonos. Sistemas de representação: 1º e 3º diedros. Projeção ortogonal de peças simples. Vistas omitidas. Cotagem
+e proporções. Perspectivas axonométricas, isométricas, bimétrica, trimétrica. Perspectiva cavaleira. Esboços cotados.
+Sombras próprias. Esboços sombreados.

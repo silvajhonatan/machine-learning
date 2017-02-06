@@ -1,0 +1,4 @@
+pi
+Definição de temas e objetivos do semestre. Pesquisa bibliográfica. Concepção do anteprojeto. Apresentação do
+anteprojeto. Definição do projeto. Execução do projeto. Testes e validação. Processamento dos dados e documentação.
+Defesa pública do projeto executado.
